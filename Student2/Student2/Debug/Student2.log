@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/6/21 10:52:41。
+     1>项目“C:\Users\john\Documents\C++\Student2\Student2\Student2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VC2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Student2.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp
+         MainFrm.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Student2.res" Student2.rc 
+       Link:
+         D:\VC2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\john\Documents\C++\Student2\Debug\Student2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VC2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"C:\Users\john\Documents\C++\Student2\Debug\Student2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\john\Documents\C++\Student2\Debug\Student2.lib" /MACHINE:X86 Debug\Student2.res
+         Debug\ChildFrm.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         Debug\Student2.obj
+         Debug\Student2Doc.obj
+         Debug\Student2View.obj
+         Student2.vcxproj -> C:\Users\john\Documents\C++\Student2\Debug\Student2.exe
+     1>已完成生成项目“C:\Users\john\Documents\C++\Student2\Student2\Student2.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:07.56
